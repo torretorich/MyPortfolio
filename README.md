@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm sanjeev kumar</h1>
-<h3 align="center">full stack devloper</h3>
+<h3 align="center">Full Stack Developer</h3>
+<h4 align="center">😀😍 UI/UX 🎨. Connect with me to 🎓</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=torretorich&label=Profile%20views&color=0e75b6&style=flat" alt="torretorich" /> </p>
 
@@ -23,3 +25,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=torretorich&show_icons=true&locale=en" alt="torretorich" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=torretorich&" alt="torretorich" /></p>
+
+
+
+
+
